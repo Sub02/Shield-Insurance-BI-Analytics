@@ -275,7 +275,7 @@ The completed report published to Power BI Service for interactive viewing throu
 
 Explore the published Shield Insurance report:
 
-[**Open Live Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiYjAzNGViZTctMDVlNS00NWZjLWI0ODUtYTQ1MTBlNGQ4OTA4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[**Open Live Power BI Dashboard**][![Shield Insurance – Interactive Power BI Dashboard](images/BUSINESS_OVERVIEW.jpeg)](https://app.powerbi.com/view?r=eyJrIjoiYjAzNGViZTctMDVlNS00NWZjLWI0ODUtYTQ1MTBlNGQ4OTA4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
