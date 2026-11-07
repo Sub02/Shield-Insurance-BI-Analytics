@@ -131,7 +131,7 @@ The model diagram will illustrate the implemented table relationships and overal
 
 The Power BI model diagram will be presented in this section.
 
-![Shield Insurance Dashboard Preview](images/Shield_Insurance_Dashboard_Preview.png)
+![Shield Insurance Dashboard Preview](images/DATA MODEL.jpeg)
 
 Dashboard preview image to be added after uploading an approved screenshot.
 ---
