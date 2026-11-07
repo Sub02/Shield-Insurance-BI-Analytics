@@ -135,13 +135,42 @@ The Power BI model diagram will be presented in this section.
 Dashboard preview image to be added after uploading an approved screenshot.
 ---
 
+
 # 📊 Dashboard Preview
 
-The Shield Insurance dashboard provides three primary analytical views.
+The Shield Insurance Power BI dashboard provides an interactive reporting experience through a landing page and three dedicated analytical views.
 
-![Shield Insurance Dashboard Preview](images/Shield_Insurance_Dashboard_Preview.png)
+---
 
-*Dashboard preview image to be added after uploading an approved screenshot.*
+## 1. Landing Page
+
+The landing page provides navigation to the three major analytical sections of the dashboard.
+
+![Shield Insurance Landing Page](images/LANDING%20PAGE.jpeg)
+
+---
+
+## 2. Overall Business Performance
+
+This dashboard provides a consolidated view of customer metrics, revenue performance, customer segmentation and geographical revenue distribution.
+
+![Overall Business Performance](images/BUSINESS_OVERVIEW.jpeg)
+
+---
+
+## 3. Sales Mode Analysis
+
+This section examines customer contribution across sales channels, demographic distribution by sales mode and monthly sales-channel trends.
+
+![Sales Mode Analysis](images/SALES%20MODE%20ANALYSIS.jpeg)
+
+---
+
+## 4. Age Group Performance
+
+This section explores customer age segmentation, revenue contribution, policy preferences, sales-mode distribution and expected settlement percentages.
+
+![Age Group Performance](images/AGE%20GROUP%20ANALYSIS.jpeg)
 
 ### Dashboard Sections
 
