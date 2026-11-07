@@ -90,9 +90,11 @@ DAX measures were subsequently developed to support KPI reporting and period-bas
 
 ---
 
-# 🧠 Data Model
+# 🧠 Data Model – Star Schema Architecture
 
-The solution uses a dimensional data model consisting of fact tables, dimension tables and a dedicated measures table.
+The Shield Insurance Power BI solution is built using a **Star Schema data modelling approach** to organize insurance-related information for analytical reporting.
+
+The model separates measurable business information into fact tables and descriptive attributes into dimension tables. This structure provides an organized analytical foundation for examining customer, policy, premium and settlement-related performance.
 
 ### Fact Tables
 
@@ -109,12 +111,22 @@ The solution uses a dimensional data model consisting of fact tables, dimension 
 
 - `CALCULATED_MEASURES`
 
-The dimension tables provide descriptive analytical context, while the fact tables contain the information used for premium and settlement analysis.
+The fact tables contain the information used for business analysis, while the dimension tables provide descriptive context for slicing and examining the data.
 
-This organization supports reporting across customer, date, policy and sales-related perspectives.
+The `CALCULATED_MEASURES` table provides a dedicated location for organizing DAX measures and is documented separately from the fact and dimension tables.
 
----
+### Modelling Approach
 
+The Star Schema approach supports:
+
+- Structured analytical relationships between fact and dimension tables.
+- Customer, policy and date-based analysis.
+- Premium and revenue reporting.
+- Sales-mode performance comparisons.
+- Age-segment analysis.
+- DAX-driven KPI calculations.
+
+The model diagram will illustrate the implemented table relationships and overall schema organization.
 # 📐 Data Model Diagram
 
 The Power BI model diagram will be presented in this section.
