@@ -184,9 +184,7 @@ This section explores customer age segmentation, revenue contribution, policy pr
 
 The complete report can be explored through the published Power BI dashboard.
 
-[Open the Interactive Shield Insurance Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjAzNGViZTctMDVlNS00NWZjLWI0ODUtYTQ1MTBlNGQ4OTA4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
-An exported PDF containing the individual dashboard pages can also be added to the repository when available and approved for sharing.
+[View or Download Full Dashboard PDF](views/SHIELD_INSURANCE.pdf)
 
 ---
 
